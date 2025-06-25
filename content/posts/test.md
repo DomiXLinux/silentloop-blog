@@ -1,7 +1,6 @@
 ---
 title: "Test Post"
-date: 2025-06-24
+date: 2024-06-24
 draft: false
 ---
-
-This is a test post for SilentLoop Syndicate.
+This is a test post generated to verify blog setup.
